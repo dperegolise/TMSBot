@@ -1,0 +1,26 @@
+{
+  "name": "Discordbot",
+  "version": "0.0.0",
+  "description": "discord test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dperegolise/Discordbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dperegolise/Discordbot/issues"
+  },
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "gyp": "^0.5.0",
+    "markdown-table": "^1.1.0",
+    "op.gg-api": "^2.0.0-alpha",
+    "opusscript": "0.0.3",
+    "ytdl-core": "^0.12.1"
+  }
+}

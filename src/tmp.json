@@ -1,0 +1,1774 @@
+{
+    "status": 200,
+    "data": {
+        "summonerId": 51802539,
+        "league": "Bronze 3",
+        "wins": 42,
+        "losses": 57,
+        "winRatio": 42,
+        "recent": {
+            "winRatio": null,
+            "wins": 11,
+            "losses": 9,
+            "games": 20,
+            "killsAverage": 5.9,
+            "deathsAverage": 6,
+            "assistsAverage": 7.6,
+            "kdaRatio": 2.23
+        },
+        "games": [
+            {
+                "type": "Normal",
+                "timestamp": 1492284051,
+                "length": "27m 47s",
+                "id": 2475724295,
+                "result": "Victory",
+                "champion": "Tryndamere",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Tryndamere.png?image=c_scale,w_46",
+                "spell1": "Teleport",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerTeleport.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 9,
+                "deaths": 4,
+                "assists": 3,
+                "ratio": 3,
+                "level": 16,
+                "cs": 215,
+                "csps": 7.7,
+                "pinksPurchased": null,
+                "killParticipation": 36,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Morgana",
+                        "name": "Gloza"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Twitch",
+                        "name": "KaitoSavage"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Sona",
+                        "name": "Hunter Ghalichi"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Tryndamere",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Zed",
+                        "name": "Lil Feed"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Janna",
+                        "name": "starsita"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Gangplank",
+                        "name": "illgankyounoob"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Nocturne",
+                        "name": "nidayenabiyihui"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Akali",
+                        "name": "WEMythstalker"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Miss Fortune",
+                        "name": "jojobabe"
+                    }
+                ]
+            },
+            {
+                "type": "Custom",
+                "timestamp": 1492281974,
+                "length": "13m 20s",
+                "id": 2475491209,
+                "result": "Victory",
+                "champion": "Kalista",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Kalista.png?image=c_scale,w_46",
+                "spell1": "Heal",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerHeal.png?image=c_scale,w_22",
+                "spell2": "Teleport",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerTeleport.png?image=c_scale,w_22",
+                "kills": 6,
+                "deaths": 0,
+                "assists": 0,
+                "ratio": null,
+                "level": 18,
+                "cs": 155,
+                "csps": 11.6,
+                "pinksPurchased": null,
+                "killParticipation": 0,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ]
+            },
+            {
+                "type": "Custom",
+                "timestamp": 1492281164,
+                "length": "22m 38s",
+                "id": 2475491056,
+                "result": "Victory",
+                "champion": "Sivir",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Sivir.png?image=c_scale,w_46",
+                "spell1": "Heal",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerHeal.png?image=c_scale,w_22",
+                "spell2": "Teleport",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerTeleport.png?image=c_scale,w_22",
+                "kills": 9,
+                "deaths": 0,
+                "assists": 0,
+                "ratio": null,
+                "level": 18,
+                "cs": 242,
+                "csps": 10.7,
+                "pinksPurchased": null,
+                "killParticipation": 0,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492236474,
+                "length": "35m 44s",
+                "id": 2475222649,
+                "result": "Victory",
+                "champion": "Zilean",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Zilean.png?image=c_scale,w_46",
+                "spell1": "Exhaust",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerExhaust.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 5,
+                "deaths": 8,
+                "assists": 12,
+                "ratio": 2.13,
+                "level": 15,
+                "cs": 71,
+                "csps": 2,
+                "pinksPurchased": 3,
+                "killParticipation": 37,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Kled",
+                        "name": "Admiral VJ"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Teemo",
+                        "name": "SO Ethereal"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Fizz",
+                        "name": "ReCTech"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Twitch",
+                        "name": "da BIG Whiz"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Thresh",
+                        "name": "Baconyo"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Kayle",
+                        "name": "Apotheoun11"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Udyr",
+                        "name": "Irukein"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Annie",
+                        "name": "itzWebby"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Ezreal",
+                        "name": "WhY DoC"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Zilean",
+                        "name": "Adrian Belair"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492226736,
+                "length": "25m 46s",
+                "id": 2475083334,
+                "result": "Victory",
+                "champion": "Caitlyn",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Caitlyn.png?image=c_scale,w_46",
+                "spell1": "Heal",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerHeal.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 8,
+                "deaths": 4,
+                "assists": 2,
+                "ratio": 2.5,
+                "level": 12,
+                "cs": 123,
+                "csps": 4.8,
+                "pinksPurchased": null,
+                "killParticipation": 29,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Fizz",
+                        "name": "DeicideGodKiller"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Alistar",
+                        "name": "420poisonswag"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Yasuo",
+                        "name": "Brain Imploder"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Caitlyn",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Leona",
+                        "name": "Ultimate21"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Camille",
+                        "name": "Kijurosawa"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Jax",
+                        "name": "Broder24"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Ahri",
+                        "name": "EeveeMaster133"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Twitch",
+                        "name": "S3v3rian"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Morgana",
+                        "name": "fender4513"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492205453,
+                "length": "41m 51s",
+                "id": 2474850849,
+                "result": "Victory",
+                "champion": "Lucian",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Lucian.png?image=c_scale,w_46",
+                "spell1": "Heal",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerHeal.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 10,
+                "deaths": 8,
+                "assists": 9,
+                "ratio": 2.38,
+                "level": 18,
+                "cs": 238,
+                "csps": 5.7,
+                "pinksPurchased": 1,
+                "killParticipation": 50,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Ahri",
+                        "name": "Dxinty"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Lee Sin",
+                        "name": "ProfessorOakTri"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Zed",
+                        "name": "TonyMarq7147"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Ashe",
+                        "name": "Brianna948"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Thresh",
+                        "name": "TheDerpyNarwhal"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Gangplank",
+                        "name": "Kingsbane9"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Kindred",
+                        "name": "mgeegee"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Lux",
+                        "name": "The End Of All"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Lucian",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Lulu",
+                        "name": "Pickachue"
+                    }
+                ]
+            },
+            {
+                "type": "Ranked Solo",
+                "timestamp": 1492202273,
+                "length": "45m 20s",
+                "id": 2474824388,
+                "result": "Defeat",
+                "champion": "Shaco",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Shaco.png?image=c_scale,w_46",
+                "spell1": "Smite",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerSmite.png?image=c_scale,w_22",
+                "spell2": "Ignite",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerDot.png?image=c_scale,w_22",
+                "kills": 5,
+                "deaths": 14,
+                "assists": 7,
+                "ratio": 0.86,
+                "level": 18,
+                "cs": 213,
+                "csps": 4.7,
+                "pinksPurchased": null,
+                "killParticipation": 29,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Ahri",
+                        "name": "hien12345"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Shaco",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Zed",
+                        "name": "Dreadknight007"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Tristana",
+                        "name": "Pickachue"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Annie",
+                        "name": "xAsiandewx"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Wukong",
+                        "name": "Darth Drizzt"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Graves",
+                        "name": "AlfaroBoss"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Swain",
+                        "name": "Chibiarden"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Twitch",
+                        "name": "frozenfreezing"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Janna",
+                        "name": "UBetterFlashh"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492192078,
+                "length": "23m 0s",
+                "id": 2474752257,
+                "result": "Defeat",
+                "champion": "Garen",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Garen.png?image=c_scale,w_46",
+                "spell1": "Teleport",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerTeleport.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 2,
+                "deaths": 3,
+                "assists": 1,
+                "ratio": 1,
+                "level": 12,
+                "cs": 104,
+                "csps": 4.5,
+                "pinksPurchased": null,
+                "killParticipation": 43,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Garen",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Warwick",
+                        "name": "squadcar"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Kassadin",
+                        "name": "Funkyemmitt"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Varus",
+                        "name": "LambOfTux"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Thresh",
+                        "name": "Antlerz"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Darius",
+                        "name": "Vexosknight"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Graves",
+                        "name": "Cavemanbc17"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "LeBlanc",
+                        "name": "Mort71"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Miss Fortune",
+                        "name": "YuuKiOni"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Leona",
+                        "name": "Sirfabulouso"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492151208,
+                "length": "35m 57s",
+                "id": 2474581500,
+                "result": "Victory",
+                "champion": "Garen",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Garen.png?image=c_scale,w_46",
+                "spell1": "Teleport",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerTeleport.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 6,
+                "deaths": 3,
+                "assists": 2,
+                "ratio": 2.67,
+                "level": 18,
+                "cs": 224,
+                "csps": 6.2,
+                "pinksPurchased": 1,
+                "killParticipation": 18,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Garen",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Graves",
+                        "name": "Faelen"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Katarina",
+                        "name": "tomoko27"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Lucian",
+                        "name": "HCD"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Karma",
+                        "name": "SIlentShadow1991"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Singed",
+                        "name": "DarkAuraSphere"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Master Yi",
+                        "name": "DonaldFukinTrump"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Yasuo",
+                        "name": "jugsfordays"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Kalista",
+                        "name": "Spade614"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Malzahar",
+                        "name": "HawtCheetos"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492147551,
+                "length": "31m 50s",
+                "id": 2474515529,
+                "result": "Victory",
+                "champion": "Garen",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Garen.png?image=c_scale,w_46",
+                "spell1": "Teleport",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerTeleport.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 5,
+                "deaths": 5,
+                "assists": 3,
+                "ratio": 1.6,
+                "level": 16,
+                "cs": 156,
+                "csps": 4.9,
+                "pinksPurchased": 2,
+                "killParticipation": 31,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Talon",
+                        "name": "JoBax"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Vi",
+                        "name": "swagestyolo"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Fizz",
+                        "name": "Blingmoma"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Ashe",
+                        "name": "ChiefOsceolaFSU"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Morgana",
+                        "name": "otaku babe"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Garen",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Hecarim",
+                        "name": "squadcar"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Malzahar",
+                        "name": "DiscoBoogie"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Jinx",
+                        "name": "Hooundi"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Sona",
+                        "name": "odestellar"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492145140,
+                "length": "27m 43s",
+                "id": 2474530072,
+                "result": "Victory",
+                "champion": "Garen",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Garen.png?image=c_scale,w_46",
+                "spell1": "Teleport",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerTeleport.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 2,
+                "deaths": 2,
+                "assists": 5,
+                "ratio": 3.5,
+                "level": 15,
+                "cs": 167,
+                "csps": 6,
+                "pinksPurchased": null,
+                "killParticipation": 21,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Camille",
+                        "name": "LouisBarenDrake"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Udyr",
+                        "name": "gothacked1231"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Galio",
+                        "name": "JakedoesJunk"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Vayne",
+                        "name": "Heataki Dong"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Jarvan IV",
+                        "name": "RagingFlamerDong"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Garen",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Warwick",
+                        "name": "squadcar"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Zed",
+                        "name": "KhangthekidGB"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Jinx",
+                        "name": "Hooundi"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Sona",
+                        "name": "odestellar"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492066395,
+                "length": "39m 0s",
+                "id": 2473739908,
+                "result": "Defeat",
+                "champion": "Shaco",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Shaco.png?image=c_scale,w_46",
+                "spell1": "Exhaust",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerExhaust.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 5,
+                "deaths": 5,
+                "assists": 8,
+                "ratio": 2.6,
+                "level": 17,
+                "cs": 99,
+                "csps": 2.5,
+                "pinksPurchased": null,
+                "killParticipation": 33,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Ekko",
+                        "name": "SIlentShadow1991"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Kha'Zix",
+                        "name": "tomoko27"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Akali",
+                        "name": "Apotheoun11"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Caitlyn",
+                        "name": "RiDDi"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Shaco",
+                        "name": "Adrian Belair"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Rumble",
+                        "name": "RyCeKiD"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Ezreal",
+                        "name": "I Eat BlTCHES"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Yasuo",
+                        "name": "Ahris Pimp"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Twisted Fate",
+                        "name": "BoneYourMom8008"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Alistar",
+                        "name": "AD0PT3D A51AN"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492059920,
+                "length": "45m 43s",
+                "id": 2473629166,
+                "result": "Defeat",
+                "champion": "Annie",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Annie.png?image=c_scale,w_46",
+                "spell1": "Teleport",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerTeleport.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 3,
+                "deaths": 13,
+                "assists": 7,
+                "ratio": 0.77,
+                "level": 17,
+                "cs": 209,
+                "csps": 4.6,
+                "pinksPurchased": null,
+                "killParticipation": 42,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Annie",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Warwick",
+                        "name": "tomoko27"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Akali",
+                        "name": "Cloud864"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Kalista",
+                        "name": "HypBoy"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Zyra",
+                        "name": "SIlentShadow1991"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Riven",
+                        "name": "Fenryir"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Kha'Zix",
+                        "name": "cowmasterrace"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Lux",
+                        "name": "NineTailedMarex"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Kog'Maw",
+                        "name": "ahungryzombiie"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Sona",
+                        "name": "reaperking101"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492050004,
+                "length": "32m 33s",
+                "id": 2473540769,
+                "result": "Defeat",
+                "champion": "Draven",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Draven.png?image=c_scale,w_46",
+                "spell1": "Heal",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerHeal.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 9,
+                "deaths": 9,
+                "assists": 11,
+                "ratio": 2.22,
+                "level": 14,
+                "cs": 146,
+                "csps": 4.5,
+                "pinksPurchased": null,
+                "killParticipation": 87,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Yasuo",
+                        "name": "CaljoshKiller"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Twitch",
+                        "name": "Raviel the spctr"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Thresh",
+                        "name": "freyathegoddess"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Malphite",
+                        "name": "anonimato1919"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Nocturne",
+                        "name": "10Yosh10"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Lux",
+                        "name": "C9 Sneaky Gun"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Zed",
+                        "name": "leecoke"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Ahri",
+                        "name": "Rice on Rage"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Draven",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Sona",
+                        "name": "UmaOgoto"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492040360,
+                "length": "53m 7s",
+                "id": 2473417896,
+                "result": "Victory",
+                "champion": "Annie",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Annie.png?image=c_scale,w_46",
+                "spell1": "Teleport",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerTeleport.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 11,
+                "deaths": 12,
+                "assists": 20,
+                "ratio": 2.58,
+                "level": 18,
+                "cs": 204,
+                "csps": 3.8,
+                "pinksPurchased": 1,
+                "killParticipation": 51,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Annie",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Kha'Zix",
+                        "name": "tomoko27"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Ekko",
+                        "name": "SIlentShadow1991"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Kalista",
+                        "name": "xxdaiko"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Lissandra",
+                        "name": "RainbowKittyKat"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Gangplank",
+                        "name": "goose7217"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Zac",
+                        "name": "bvbforthewin"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Shaco",
+                        "name": "Demon Jasono"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Katarina",
+                        "name": "STORML0RD"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Talon",
+                        "name": "KingOfCloudz"
+                    }
+                ]
+            },
+            {
+                "type": "ARAM",
+                "timestamp": 1492027356,
+                "length": "17m 46s",
+                "id": 2473316903,
+                "result": "Victory",
+                "champion": "Shen",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Shen.png?image=c_scale,w_46",
+                "spell1": "Flash",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "spell2": "Clarity",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerMana.png?image=c_scale,w_22",
+                "kills": 6,
+                "deaths": 8,
+                "assists": 23,
+                "ratio": 3.63,
+                "level": 14,
+                "cs": 7,
+                "csps": 0.4,
+                "pinksPurchased": null,
+                "killParticipation": 76,
+                "items": [
+                    {
+                        "name": "Poro-Snax",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/2052.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 2052
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Kog'Maw",
+                        "name": "yofuturequeen"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Fiddlesticks",
+                        "name": "Saltyjoegrog"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Shen",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Yasuo",
+                        "name": "fluffydeath11"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Graves",
+                        "name": "El Milk M4N"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Ivern",
+                        "name": "SamzoKun"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Annie",
+                        "name": "CiprianCalistru"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Sion",
+                        "name": "venn36"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Pantheon",
+                        "name": "killercris"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Vi",
+                        "name": "Acamaru Fox"
+                    }
+                ]
+            },
+            {
+                "type": "ARAM",
+                "timestamp": 1492026020,
+                "length": "24m 13s",
+                "id": 2473322623,
+                "result": "Defeat",
+                "champion": "Soraka",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Soraka.png?image=c_scale,w_46",
+                "spell1": "Heal",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerHeal.png?image=c_scale,w_22",
+                "spell2": "Clarity",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerMana.png?image=c_scale,w_22",
+                "kills": 5,
+                "deaths": 7,
+                "assists": 26,
+                "ratio": 4.43,
+                "level": 17,
+                "cs": 6,
+                "csps": 0.2,
+                "pinksPurchased": null,
+                "killParticipation": 65,
+                "items": [
+                    {
+                        "name": "Poro-Snax",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/2052.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 2052
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Karma",
+                        "name": "yofuturequeen"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Nami",
+                        "name": "WickidShade"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Soraka",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Vel'Koz",
+                        "name": "Malimosa"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Cho'Gath",
+                        "name": "THE HUAB TAIS"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Karthus",
+                        "name": "CBGB1"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Gangplank",
+                        "name": "esparacus"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Sejuani",
+                        "name": "Dersert"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Vayne",
+                        "name": "blackcat888"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Akali",
+                        "name": "Xagrof"
+                    }
+                ]
+            },
+            {
+                "type": "ARAM",
+                "timestamp": 1492024340,
+                "length": "15m 28s",
+                "id": 2473314141,
+                "result": "Defeat",
+                "champion": "Kog'Maw",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/KogMaw.png?image=c_scale,w_46",
+                "spell1": "Mark",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerSnowball.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 7,
+                "deaths": 5,
+                "assists": 8,
+                "ratio": 3,
+                "level": 13,
+                "cs": 43,
+                "csps": 2.8,
+                "pinksPurchased": null,
+                "killParticipation": 65,
+                "items": [
+                    {
+                        "name": "Poro-Snax",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/2052.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 2052
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Katarina",
+                        "name": "Krystal10"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Twitch",
+                        "name": "RGEN"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Skarner",
+                        "name": "Diomax"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Annie",
+                        "name": "Avenge My Death"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Morgana",
+                        "name": "Sagepat"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Akali",
+                        "name": "SweetDolce"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Kog'Maw",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Varus",
+                        "name": "eattttttIT"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Olaf",
+                        "name": "s2ws2"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Vayne",
+                        "name": "KongWu1"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1492015813,
+                "length": "33m 51s",
+                "id": 2473256887,
+                "result": "Defeat",
+                "champion": "Shaco",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Shaco.png?image=c_scale,w_46",
+                "spell1": "Ignite",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerDot.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 3,
+                "deaths": 3,
+                "assists": 2,
+                "ratio": 1.67,
+                "level": 15,
+                "cs": 117,
+                "csps": 3.5,
+                "pinksPurchased": null,
+                "killParticipation": 23,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Wukong",
+                        "name": "BlaithStrife"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Rengar",
+                        "name": "Itachi uchiha 60"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Zed",
+                        "name": "Korvit"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Ezreal",
+                        "name": "KingAtras"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Soraka",
+                        "name": "avithemayor"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Master Yi",
+                        "name": "ChickenMan64"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Rengar",
+                        "name": "kazatsuki"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Zed",
+                        "name": "MisterKlops"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Graves",
+                        "name": "RickRhinø"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Shaco",
+                        "name": "Adrian Belair"
+                    }
+                ]
+            },
+            {
+                "type": "Normal",
+                "timestamp": 1491958342,
+                "length": "26m 35s",
+                "id": 2472651840,
+                "result": "Defeat",
+                "champion": "Akali",
+                "championImage": "//opgg-static.akamaized.net/images/lol/champion/Akali.png?image=c_scale,w_46",
+                "spell1": "Teleport",
+                "spell1Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerTeleport.png?image=c_scale,w_22",
+                "spell2": "Flash",
+                "spell2Image": "//opgg-static.akamaized.net/images/lol/spell/SummonerFlash.png?image=c_scale,w_22",
+                "kills": 1,
+                "deaths": 7,
+                "assists": 2,
+                "ratio": 0.43,
+                "level": 12,
+                "cs": 77,
+                "csps": 2.9,
+                "pinksPurchased": null,
+                "killParticipation": 33,
+                "items": [
+                    {
+                        "name": "Warding Totem (Trinket)",
+                        "image": "//opgg-static.akamaized.net/images/lol/item/3340.png?image=c_scale,w_32",
+                        "slot": 7,
+                        "id": 3340
+                    }
+                ],
+                "team1": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Teemo",
+                        "name": "Lazol"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 2,
+                        "championName": "Ivern",
+                        "name": "Neykas"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 3,
+                        "championName": "Nunu",
+                        "name": "MonkeyByte"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 4,
+                        "championName": "Ashe",
+                        "name": "Songodin"
+                    },
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 5,
+                        "championName": "Nami",
+                        "name": "We Are Unbound"
+                    }
+                ],
+                "team2": [
+                    {
+                        "teamSide": "Blue",
+                        "teamSlot": 1,
+                        "championName": "Akali",
+                        "name": "Adrian Belair"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 2,
+                        "championName": "Lee Sin",
+                        "name": "ÆtherStorm"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 3,
+                        "championName": "Katarina",
+                        "name": "Euronotos"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 4,
+                        "championName": "Vayne",
+                        "name": "Draioslayer"
+                    },
+                    {
+                        "teamSide": "Red",
+                        "teamSlot": 5,
+                        "championName": "Lulu",
+                        "name": "ThomastheTrain"
+                    }
+                ]
+            }
+        ]
+    }
+}
