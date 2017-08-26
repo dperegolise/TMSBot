@@ -1,6 +1,6 @@
 # Discordbot
 
-Add this bot to your server: https://discordapp.com/oauth2/authorize?client_id=243492121422594067&scope=bot&permissions=0
+Add this bot to your server: https://discordapp.com/oauth2/authorize?client_id=283485697548091392&scope=bot&permissions=0
 
 Warning: Riot deprecated the API endpoints being used by this bot. Until it's updated, only the voice channel commands are working.
 
